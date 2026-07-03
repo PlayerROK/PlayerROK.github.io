@@ -1,3 +1,17 @@
-p {
+div {
     text-align: center;
+}
+div {
+    background-color: #7417e8;
+}
+ul
+{
+    display: inline-block;
+    text-align: left;
+}
+html, body
+{
+    min-height: 100vh;
+    background-color: #7417e8;
+
 }
